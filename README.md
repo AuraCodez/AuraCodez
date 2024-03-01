@@ -3,7 +3,7 @@ Hey, I'm Ryan i'm a student at York University majoring in Computer science. I a
 
 My interests in programming include backend development, full stack development and mobile app development. I am also interested in cybersecurity.
 
-I am currently working on my Spring Boot application - Movie Recommendation System.
+I am currently working on my Spring Boot application - Movie Recommendation System and learning Jetpack Compose for Mobile development
 
 
 Please check out my portofolio site to learn more about me.
