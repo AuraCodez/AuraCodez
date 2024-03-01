@@ -3,11 +3,13 @@ Hey, I'm Ryan i'm a student at York University majoring in Computer science. I a
 
 My interests in programming include backend development, full stack development and mobile app development. I am also interested in cybersecurity.
 
-I’m an aspiring software engineer passionate about working on projects that have real impact to users.
+I’m an aspiring software engineer passionate about working on projects that have real impact to users. 
+
+I am proficient in
 
 **Languages**: Java, Kotlin, Python, Dart, C, HTML/CSS, SQL (MySQL, SQLite)
 
-**Frameworks**: Android, Flask, Jetpack Compose, Flutter, Spring Boot, MongoDB, React, Java FX, Neo4J
+**Frameworks**: Android, Flask, Jetpack Compose, Flutter, Spring Boot, MongoDB, React, Java FX
 
 **Tools**: Firebase, Postman, Gradle, Git/GitHub, Linux CLI, Figma, Jira, Retrofit, Confluence, JUnit
 
