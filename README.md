@@ -5,7 +5,7 @@ My interests in programming include backend development, full stack development 
 
 I’m an aspiring software engineer passionate about working on projects that have real impact to users. 
 
-I am proficient in
+I am proficient in many framework and languages.
 
 **Languages**: Java, Kotlin, Python, Dart, C, HTML/CSS, SQL (MySQL, SQLite)
 
