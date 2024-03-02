@@ -13,7 +13,7 @@ I am proficient in many framework and languages.
 
 **Tools**: Firebase, Postman, Gradle, Git/GitHub, Linux CLI, Figma, Jira, Retrofit, Confluence, JUnit
 
-I am currently working on my **Spring Boot** application - Movie Recommendation System and learning **Jetpack Compose** for Mobile development.
+I am currently working on my **Spring Boot** application and learning **Jetpack Compose** for Mobile development.
 
 Please check out my portofolio site to learn more about me.
 
