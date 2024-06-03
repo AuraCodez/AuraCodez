@@ -1,7 +1,7 @@
 
-Hey, I'm Ryan i'm a student at York University majoring in Computer science. I am constantly learning new technology every day and hope to become a better Software Developer.
+Hey, I'm Ryan i'm a student at York University majoring in Computer science.
 
-My interests in programming include backend development, full stack development and mobile app development. I am also interested in cybersecurity.
+My interests in programming include backend development, full stack development and mobile app development. I am also interested in cybersecurity, machine learning and robotics.
 
 **Languages**: Java, Kotlin, Python, Dart, C, HTML/CSS, SQL (MySQL, SQLite)
 
