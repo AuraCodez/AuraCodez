@@ -11,4 +11,4 @@ My interests in programming include backend development, full stack development 
 
 I am currently working on my **Spring Boot** application and learning deeply about **Jetpack Compose** for Mobile development.
 
-Have a nice day!
+Have a nice day feel free to email me at ryan.lolyork@gmail.com
