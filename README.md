@@ -1,5 +1,5 @@
 
-Hey, I'm Ryan i'm a student at York University majoring in Computer science.
+Hey! i'm a student at York University majoring in Computer science.
 
 My interests in programming include backend development, full stack development and mobile app development. I am also interested in cybersecurity, machine learning and robotics.
 
