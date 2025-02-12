@@ -10,5 +10,3 @@ My interests in programming include backend development, full stack development 
 **Tools**: Firebase, Postman, Gradle, Git/GitHub, Linux CLI, Figma, Jira, Retrofit, Confluence, JUnit
 
 I am currently working on my **Spring Boot** application and learning deeply about **Jetpack Compose** for Mobile development.
-
-Have a nice day feel free to email me at ryan.lolyork@gmail.com
